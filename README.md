@@ -26,6 +26,10 @@ For now only VGA is supported. If you don't have extended memory - use SET DPMIL
 Windows: Any Win32, including Windows 3.x + Win32s installed and Windows NT 3.x, Windows 9x/NT 4.x are recommended.
 For now only GDI is supported.
 
+**Supported formats:**
+
+1, 2, 4, 8, 16, 24 and 32 bit formats are supported. 2bpp, 16bpp and 32bpp aren't tested though. Both BI_RGB and BI_BITFIELDS compression methods are supported.
+
 **Installation:**
 
 1) Download latest Game Engine here https://github.com/MrMadguy64/Engine/releases
