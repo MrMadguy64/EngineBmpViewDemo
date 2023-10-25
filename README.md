@@ -33,7 +33,7 @@ For now only GDI is supported.
 **Installation:**
 
 1) Download latest Game Engine here https://github.com/MrMadguy64/Engine/releases
-2) Replace files in Engine's directory with ones provided in Tetris.7z
+2) Replace files in Engine's directory with ones provided in BmpView.7z
 
 **Usage:**
 
